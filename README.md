@@ -1,2 +1,2 @@
-# c-project
+# cpp-project
 test repo
